@@ -1,2 +1,2 @@
-# Test
-CAB GitHub companion test
+# domain-booster
+CAB GitHub Pages test
